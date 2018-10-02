@@ -1,0 +1,2 @@
+## Facial-Keypoints-Detection
+This is an implementation of Kaggle's Facial Keypoints Detection challenge in TensorFlow ([Link](https://www.kaggle.com/c/facial-keypoints-detection)). It draws direct inspiration from approach of one of the leaderboard's contestant. The blog describing the approach can be found [here](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/).  
